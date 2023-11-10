@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 using System.Collections.Specialized;
 
-Console.WriteLine("Input Triangle data (bottom & height)");
+Console.WriteLine("Input Square data Conner");
 int count = 0;
 string result = "";
 double total = 0;
