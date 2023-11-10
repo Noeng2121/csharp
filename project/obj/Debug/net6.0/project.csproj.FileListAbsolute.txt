@@ -1,0 +1,14 @@
+D:\cshape\project\bin\Debug\net6.0\project.exe
+D:\cshape\project\bin\Debug\net6.0\project.deps.json
+D:\cshape\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\cshape\project\bin\Debug\net6.0\project.dll
+D:\cshape\project\bin\Debug\net6.0\project.pdb
+D:\cshape\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\cshape\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\cshape\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\cshape\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\cshape\project\obj\Debug\net6.0\project.dll
+D:\cshape\project\obj\Debug\net6.0\refint\project.dll
+D:\cshape\project\obj\Debug\net6.0\project.pdb
+D:\cshape\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\cshape\project\obj\Debug\net6.0\ref\project.dll

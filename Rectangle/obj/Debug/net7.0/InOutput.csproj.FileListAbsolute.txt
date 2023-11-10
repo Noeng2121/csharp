@@ -1,0 +1,14 @@
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.AssemblyInfoInputs.cache
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.AssemblyInfo.cs
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.csproj.CoreCompileInputs.cache
+D:\cshape\InOutput\bin\Debug\net7.0\InOutput.exe
+D:\cshape\InOutput\bin\Debug\net7.0\InOutput.deps.json
+D:\cshape\InOutput\bin\Debug\net7.0\InOutput.runtimeconfig.json
+D:\cshape\InOutput\bin\Debug\net7.0\InOutput.dll
+D:\cshape\InOutput\bin\Debug\net7.0\InOutput.pdb
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.dll
+D:\cshape\InOutput\obj\Debug\net7.0\refint\InOutput.dll
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.pdb
+D:\cshape\InOutput\obj\Debug\net7.0\InOutput.genruntimeconfig.cache
+D:\cshape\InOutput\obj\Debug\net7.0\ref\InOutput.dll
